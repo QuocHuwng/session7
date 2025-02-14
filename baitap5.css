@@ -16,13 +16,7 @@ body {
     padding: 10px;
     text-align: center;
 }
-.hot {
-     
-    margin: 6.4cm auto;
-    background-color: yellow;
-    color: red;
-    border-radius: 5px;
-}
+
 .content {
     padding: 15px;
 }
@@ -54,4 +48,9 @@ body {
 p{
     margin: 5px 0;
     text-align: center;
+}
+.hot{
+    position: absolute;
+    top: 0px;
+    left: 7cm;
 }
